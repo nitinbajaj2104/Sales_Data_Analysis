@@ -66,8 +66,8 @@ The Sales Dashboard was created in Tableau Public which answers the problem stat
 
 https://public.tableau.com/authoring/Sales_dashboard_16954595414000/SalesDashboard#1
 
+![Screenshot 2023-11-22 153844](https://github.com/nitinbajaj2104/Sales_Data_Analysis/assets/142987208/df737332-1ed7-458e-8851-c9ff289ddbb1)
 
-![Screenshot 2023-11-22 153844](https://github.com/nitinbajaj2104/Sales_Data_Analysis/assets/142987208/a68b9686-7940-42f0-89ca-690e6234a9b7)
 
 
 
