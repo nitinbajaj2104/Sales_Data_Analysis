@@ -5,7 +5,7 @@ The purpose of this project is to analyze sales data and extract valuable insigh
 
 # Overview
 
-This repository contains Sales data and related information used for analysis in MySQL and tableau .It involves solving various problem statements related to the business. 
+This repository contains Sales data and related information used for analysis in Ms SQL Server and tableau .It involves solving various problem statements related to the business. 
 
 
 ## About Dataset
@@ -21,7 +21,7 @@ product etc.
 
 # Business Tasks
 
-## Problem Statements for MySQL
+## Problem Statements for SQL (MS SQL Server)
 
 1. What is the total sales from each of the product line ?
 2. What is the total sales in each year ?
