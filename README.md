@@ -13,7 +13,7 @@ This repository contains Sales data and related information used for analysis in
 https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download
 
 The data is provided in CSV format.
-This sales dataset make up 25 relevant features which includes information such as order date,product details,customer information,quantity ordered and price of 
+This sales dataset make up 25 features which includes information such as order date,product details,customer information,quantity ordered and price of 
 product etc.
 
  
