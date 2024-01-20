@@ -104,4 +104,4 @@ Implement customer engagement and loyalty programs , especially in countries whe
 
 5. Seasonal Marketing and Inventory Planning:
    
-Since November consistently shows the highest revenue, plan marketing campaigns and inventory levels to capitalize on this trend. Adjust promotions, discounts, and advertising to maximize sales during peak months. Similarly, consider optimizing inventory and operations during slower sale months to minimize costs.
+Since November consistently shows the highest revenue, plan marketing campaigns and inventory levels to capitalize on this trend. Adjust promotions, discounts, and advertising to maximize sales during peak months. Similarly, consider optimizing inventory and operations during lower sale months like january to minimize costs.
