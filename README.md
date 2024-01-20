@@ -95,7 +95,7 @@ The business can evaluate the performance of the products which account for the 
 
 3. Focus on High-Performing Markets:
    
-Given that sales are highest in the USA and lowest in Ireland, concentrate marketing efforts and resources on the high-performing markets. Consider tailoring promotions, advertising, and product offerings to better suit the preferences and needs of customers in these regions.
+Given that sales are highest in the USA , concentrate marketing efforts and resources on the high-performing markets. Consider tailoring promotions, advertising, and product offerings to better suit the preferences and needs of customers in these regions.
 
 4. Customer Engagement and Loyalty Programs:
    
@@ -104,4 +104,4 @@ Implement customer engagement and loyalty programs , especially in countries whe
 
 5. Seasonal Marketing and Inventory Planning:
    
-Since November consistently shows the highest revenue, plan marketing campaigns and inventory levels to capitalize on this trend. Adjust promotions, discounts, and advertising to maximize sales during peak months. Similarly, consider optimizing inventory and operations during slower months to minimize costs.
+Since November consistently shows the highest revenue, plan marketing campaigns and inventory levels to capitalize on this trend. Adjust promotions, discounts, and advertising to maximize sales during peak months. Similarly, consider optimizing inventory and operations during slower sale months to minimize costs.
