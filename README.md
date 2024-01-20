@@ -91,7 +91,7 @@ Given that revenue is highest in medium deal size products, consider optimizing 
 
 2. Evaluate Performance of non performing products:
    
-The business can evaluate the performance of the products which account for the lowest share in the total sales like planes to identify areas for improvment and look whether any opportunity arises to increase its sales . For example if required the business can make some modifications or changes in the marketing techniques , quality of components of the plane , if required ,to attract more customers.
+The business can evaluate the performance of the products which account for the lowest share in the total sales like planes to identify areas for improvement and look whether any opportunity arises to increase its sales . For example if required the business can make some modifications or changes in the marketing techniques , quality of components of the plane , if required ,to attract more customers.
 
 3. Focus on High-Performing Markets:
    
