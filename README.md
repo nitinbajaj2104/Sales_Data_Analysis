@@ -54,11 +54,11 @@ product etc.
 
 ## Steps Performed 
 
-The dataset was first imported through a csv file from Ms Excel in MySQL Workbench software .
+The dataset was first imported through a csv file from Ms Excel in MS SQL Server Management Studio software .
 
-The analysis of the dataset was done in MySQL Workbench  by running various queries related to the problem statement meant for MySQL.
+The analysis of the dataset was done in MS SQL Server  by running various queries related to the problem statement meant for MySQL.
 
-After analysing the data in MySQL, the dataset was imported in Tableau Public Software where Data Visualisation is done with the help of interactive dashboard, which answers all the problem statement required to be solved with the help of Tableau.
+After analysing the data in MS SQL, the dataset was imported in Tableau Public Software where Data Visualisation is done with the help of interactive dashboard, which answers all the problem statement required to be solved with the help of Tableau.
 
 ## Dashboard Created 
 
